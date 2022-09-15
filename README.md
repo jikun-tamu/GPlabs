@@ -7,4 +7,4 @@ Links to labs:
 
 - [lab 1](https://github.com/jikun-tamu/GPlabs)
 
-- [lab 2](https://github.com/jikun-tamu/GPlabs)
+- [lab 2](https://github.com/jikun-tamu/GPlabs/tree/main/lab2)
