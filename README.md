@@ -10,3 +10,5 @@ Links to labs:
 - [lab 2](https://github.com/jikun-tamu/GPlabs/tree/main/lab2)
 
 - [lab 3](https://github.com/jikun-tamu/GPlabs/tree/main/lab3)
+
+- [lab 4](https://github.com/jikun-tamu/GPlabs/tree/main/lab4)
