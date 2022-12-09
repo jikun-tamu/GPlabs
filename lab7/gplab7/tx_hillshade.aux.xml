@@ -1,0 +1,8 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="gp-lyrx">Yes</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>tx_hillshade</Description>
+  </PAMRasterBand>
+</PAMDataset>

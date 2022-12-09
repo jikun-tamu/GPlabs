@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20221208</CreaDate><CreaTime>17173300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\CompositeBands" Date="20221208" Time="171733">CompositeBands b.tif;g.tif;r.tif C:\Users\Jikun\Documents\GP\GPlabs\lab7\combined.tif</Process></lineage></DataProperties></Esri></metadata>
